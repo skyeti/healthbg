@@ -1,0 +1,11 @@
+{
+  "name": "healthbg",
+  "version": "1.0.0",
+  "description": "This is bg data manage system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "skylu",
+  "license": "ISC"
+}
