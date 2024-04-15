@@ -1,11 +1,23 @@
 {
-  "name": "healthbg",
+  "name": "@skyeti/healthbg",
   "version": "1.0.0",
   "description": "This is bg data manage system",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "author": "skylu",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyeti/healthbg.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/skyeti/healthbg/issues"
+  },
+  "homepage": "https://github.com/skyeti/healthbg#readme"
 }
